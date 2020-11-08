@@ -3,6 +3,8 @@ from datetime import datetime
 from datetime import timedelta
 from datetime import date
 import sys
+
+#import file that sends texts
 sys.path.append(r"C:\Users\jzhao\OneDrive\Desktop\Web\SMS")
 import sendText as sT
 
